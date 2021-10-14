@@ -8,3 +8,5 @@ Imagens:
 
 <img src="/src/imgs/img1.jpeg" height="433" width="200">
 <img src="/src/imgs/img2.jpeg" height="433" width="200">
+
+Excelente App!
